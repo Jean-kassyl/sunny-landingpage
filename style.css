@@ -23,8 +23,11 @@ img {
 header  {
     padding-bottom: 13rem;
     background-size: cover;
-    background-position: center;
-    
+    background-position: center;    
+}
+
+.container {
+    max-width: 1380px;
 }
 nav {
     position: relative;
